@@ -1,0 +1,42 @@
+@charset "utf-8";
+
+* {
+margin: 0;
+padding: 0;
+font-weight: normal;
+}
+
+html {
+background: #eee;
+}
+
+body {
+padding: 1px 20px;
+background: #fff;
+}
+
+h1.sample1 {
+margin: 200px 0 50px;
+width: 300px;
+height: 100px;
+text-align: center;
+background: #fcfc68;
+}
+
+h1.sample2 {
+margin: 100px 0 50px;
+height: 100px;
+text-align: left;
+background: #fcfc68;
+}
+
+h1.sample3 {
+margin: 100px 0 50px;
+height: 100px;
+text-align: right;
+background: #fcfc68;
+}
+
+div {
+height: 5000px;
+}
