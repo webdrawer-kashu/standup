@@ -31,7 +31,7 @@ $(function(){
 　　left : false, //widthが広い場合に、trueにするとその要素の左端にドーンするようの設定。
 　　right : false, //widthが広い場合に、trueにするとその要素の右端にドーンするようの設定。
 　　adjust : 0 //上記の左右端にドーンすると要素の端が画面中央にくるので位置微調整用の項目。左に100px動かすならなら「-100」。右に100px動かす場合は「100」と入れる。
-});
+  });
 });
 ```
 
@@ -45,6 +45,5 @@ $(function(){
 - 右寄せ
 <a href="http://webdrawer.net/sample/js/standup/index3.html" target="_blank">右寄せ</a>
 
-
-##ブログ
+## ブログ
 <a href="http://webdrawer.net/javascript/standup.html" target="_blank">[ブログ]</a>
